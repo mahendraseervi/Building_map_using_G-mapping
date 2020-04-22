@@ -57,3 +57,9 @@ $ cd /home/workspace/
 $ rosrun map_server map_saver -f myMap
 ```
 
+## Images :
+### Map created:
+![](images/Selection_001.png)
+
+### Robot in the gazebo simulation world while creating map:
+![](images/Selection_003.png)
