@@ -4,8 +4,8 @@ Implementing a gmapping ROS package which is based on the Grid-based FastSLAM al
 ## Ros packages used:
 1. turtlebot_gazebo
 2. Gmapping
-4. turlebot_teleop
-5. rviz
+3. turlebot_teleop
+4. rviz
 
 
 ## Steps to Launch:
